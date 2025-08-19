@@ -52,6 +52,10 @@ Dependencias agregadas:Spring Data JPA - Postgres Driver - Spring Web
 
 ## 🖼️ Vista previa del proyecto
 
+<img width="544" height="440" alt="image" src="https://github.com/user-attachments/assets/e3e0e3a7-80ab-42d4-a01b-3b212227799a" />
+
+
+
 
 
 
