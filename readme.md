@@ -1,45 +1,23 @@
-# **LiterAlura 📚✨**
+# **LiterAlura**
 
-Este proyecto fue desarrollado como parte del programa ONE (Oracle Next Education) para el curso de Alura Latam, con el objetivo de aplicar conocimientos en Java, Spring Boot y consumo de APIs REST. LiterAlura permite al usuario consultar, almacenar y visualizar libros y autores utilizando la API pública de Gutendex. Combina backend con una interfaz gráfica HTML moderna y minimalista.
+Pproyecto desarrollado como parte del programa ONE (Oracle Next Education) para el curso de Alura Latamcon la finalidad de aplicar conocimientos de las Formacones en Java, Spring Boot y consumo de APIs REST. 
+Esta aplaición permite realizar consultas, almacenar y visualizar libros y autores utilizando la API pública de Gutendex.
 
 ## **Objetivos del Proyecto 🎯**
 
-🧠 Aplicar los fundamentos de Java y Spring Boot.
+1.- Aplicar los fundamentos de Java y Spring Boot.
 
-🔗 Realizar el consumo de una API externa (Gutendex).
+2.- Realizar el consumo de una API externa (Gutendex).
 
-🗃️ Almacenar y consultar datos desde una base de datos (PostgreSQL).
+3.- lmacenar y consultar datos desde una base de datos (Se usa PostgreSQL).
 
-📊 Crear funcionalidades de filtrado, búsqueda y estadísticas de los libros y autores.
-
-💻 Incorporar una interfaz web HTML + CSS + JS.
-
-🧪 Mantener la estructura de backend original, asegurando que funcione por consola y por navegador.
+4.- Crear funcionalidades de filtrado, búsqueda y estadísticas de los libros y autores.
 
 ## **Funcionalidades del Proyecto 🚀**
 
-La aplicación ofrece dos formas de uso:
+La aplicación ofrece el menu consola 🧾 Menú por consola (desde LiteraluraApplication)
 
-🧾 Menú por consola (desde LiteraluraApplication)
-🔍 Buscar libro por título
 
-📚 Listar libros registrados
-
-👤 Listar autores registrados
-
-📅 Listar autores vivos en un año
-
-🌐 Listar libros por idioma
-
-⭐ Top 10 libros más descargados
-
-📈 Estadísticas de descargas
-
-:
-
-🗑️ Vaciar todo: elimina todos los libros y autores guardados
-
-🌐 Interfaz Gráfica (Frontend HTML)
 Buscador por título
 
 Botones con íconos para listar libros, autores, idiomas, estadísticas, top 10, etc.
@@ -74,6 +52,6 @@ Dependencias agregadas:Spring Data JPA - Postgres Driver - Spring Web
 
 ## 🖼️ Vista previa del proyecto
 
-![Demostración de LiterAlura](https://github.com/LucianaC9/LiterAluraApp/blob/master/LiterAluraApp.gif)
+
 
 
